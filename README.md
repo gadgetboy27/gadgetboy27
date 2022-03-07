@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henry from @gadgetboy27...
-- 👀 I’m interested in ...technology
+- 👀 I’m interested in ...WEB3.0 technology
 - 🌱 I’m currently learning ...solidity with MoralisWeb3 API
 - 💞️ I’m looking to collaborate on ...anything fun
 - 📫 How to reach me ...iamgadgetboy@gmail.com
