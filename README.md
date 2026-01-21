@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henry from @gadgetboy27...
-- 👀 I’m interested in ...WEB3 technology
+- 👀 I’m interested in ...Blockchain tech, AI vibe coding, CAN communications.
 - 🌱 I’m currently learning ...solidity for smart contracts and flutter for mobile and web with a view to DeFi projects.
 - 💞️ I’m looking to collaborate on ...anything fun and meaningful.
 - 📫 How to reach me ... www.zigzagapps.com.
