@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...WEB3 technology
 - 🌱 I’m currently learning ...solidity for smart contracts and flutter for mobile and web with a view to DeFi projects.
 - 💞️ I’m looking to collaborate on ...anything fun and meaningful.
-- 📫 How to reach me ... www.zigzagapps.com & twitter @henry peti
+- 📫 How to reach me ... www.zigzagapps.com.
 
 <!---
 gadgetboy27/gadgetboy27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
